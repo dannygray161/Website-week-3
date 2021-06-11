@@ -1,2 +1,2 @@
-# Website-week-3
- Website Week 3 claim
+# HTML-Website-for-Claim-Academy
+working with html to create a simple website
